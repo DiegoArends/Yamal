@@ -1,0 +1,48 @@
+.banner {
+    background-color: #8a1117;
+    color: white;
+    margin: top 75px;
+    text-align: center;
+    padding: 100px;
+
+}
+
+#small-lamine {
+    height: 552px;
+    width: 828px;
+}
+
+#yamal {
+    color: #11238a;
+    font-size: 100px;
+}
+#yamal2 {
+    color: #f0f0f0;
+    font-size: 40px;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.Eurocopa {
+    background-color: hsl(231, 78%, 30%);
+    color: white;
+    text-align: top;
+    padding: 100px;
+    margin: top 100px;
+}
+
+#euro {
+    height: 800px;
+    width: 600px;
+    padding: 75px;
+    
+}
+
+#debut {
+    height: 700px;
+    width: 1000x;
+    padding: 200px;
+   
+}
